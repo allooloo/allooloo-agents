@@ -1,0 +1,6 @@
+{
+  "mcpServers": {
+    "allooloo": { "url": "https://mcp.getissuer.ai/mcp" },
+    "allooloo-news": { "url": "https://mcp.getissuernews.ai/mcp" }
+  }
+}

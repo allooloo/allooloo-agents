@@ -1,0 +1,6 @@
+{
+  "servers": {
+    "allooloo": { "type": "http", "url": "https://mcp.getissuer.ai/mcp" },
+    "allooloo-news": { "type": "http", "url": "https://mcp.getissuernews.ai/mcp" }
+  }
+}
