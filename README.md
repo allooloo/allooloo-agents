@@ -20,6 +20,8 @@ The nine products, each with the MCP address that serves it. The start address a
 | `get_auditor` | The auditor of a listed company and every dated change | `https://mcp.getauditor.ai/mcp` |
 | `get_research` | The research page of a listed company, written from the signed record | `https://mcp.getresearch.ai/mcp` |
 
+Also on the same MCP: [`get_counterparty`](https://github.com/allooloo/getcounterparty), the Counterparty MCP. The regulator's record of every licensed capital markets firm, read by any agent in one call. (`get_counterparty`, `resolve_counterparty`, `list_counterparties`, `verify_counterparty`) MCP address `https://mcp.getcounterparty.ai/mcp`. Repository: https://github.com/allooloo/getcounterparty
+
 ## Setup
 
 **Claude Code** ([setup/claude-code.sh](setup/claude-code.sh))

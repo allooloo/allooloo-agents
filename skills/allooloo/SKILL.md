@@ -38,6 +38,8 @@ Each product also has its own MCP address, serving its product call:
 | `get_auditor` | The auditor and every dated change | `https://mcp.getauditor.ai/mcp` |
 | `get_research` | The research page, written from the signed record | `https://mcp.getresearch.ai/mcp` |
 
+Also: `get_counterparty`, the Counterparty MCP. The regulator's record of every licensed capital markets firm, read by any agent in one call. MCP address `https://mcp.getcounterparty.ai/mcp`. Repository: https://github.com/allooloo/getcounterparty
+
 Read each tool's own description from `tools/list` before calling it; it names the arguments.
 
 ## Paying per call
